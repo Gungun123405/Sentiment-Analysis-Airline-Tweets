@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+__pycache__/
+
+# Data and large files
+data/glove/
+data/processed/*.pkl
+*.csv
+*.zip
+*.h5
+*.npy
+*.txt
+
+# IDE / System files
+.DS_Store
+.vscode/
+.ipynb_checkpoints/
