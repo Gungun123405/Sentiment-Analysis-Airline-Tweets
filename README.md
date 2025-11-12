@@ -4,9 +4,15 @@ This project classifies airline-related tweets into **Positive**, **Neutral**, o
 
 ## 🧠 Key Features
 - Deep BiLSTM + Attention Architecture
-- Pre-trained GloVe 200d Word Embeddings
+- Pre-trained GloVe 200d Word Embeddings 🔗 https://nlp.stanford.edu/projects/glove/
 - Modular Pipeline: Preprocessing → Training → Evaluation → Deployment
 - Streamlit UI for Real-Time Tweet Classification
+
+## Dataset 
+- Dataset Name:
+Twitter US Airline Sentiment Dataset
+-Source:
+Kaggle → https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment
 
 ## ⚙️ Setup
 ```bash
